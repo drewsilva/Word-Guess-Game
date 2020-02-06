@@ -1,7 +1,7 @@
 # Word-Guess-Game
 A word guessing game.
 
-This is an homework assignment for UT Coding Bootcamp. 
+UT Coding Bootcamp. 
 
 This game was created with a basic understanding of Javascript. 
 
